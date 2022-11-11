@@ -1,0 +1,25 @@
+{
+  "name": "typescripttestesuni-homework4",
+  "version": "1.0.0",
+  "description": "``` - Dado dois números inteiros - A função soma recebe esses dois números como parâmetro - Deve retornar a soma dos mesmos ``` ## Questão 2 - Testa Função de AlertaAtendente ``` - Dado duas strings - A função AlertaAtendente recebe essas duas strings como parâmetro <!-- Deve retornar a soma dos mesmos --> ```",
+  "main": "jest.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luizavalentini/TypeScriptTestesUni-homework4.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/luizavalentini/TypeScriptTestesUni-homework4/issues"
+  },
+  "homepage": "https://github.com/luizavalentini/TypeScriptTestesUni-homework4#readme",
+  "devDependencies": {
+    "@types/jest": "^29.2.2",
+    "jest": "^29.3.1",
+    "ts-jest": "^29.0.3"
+  }
+}
