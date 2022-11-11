@@ -1,5 +1,5 @@
 # TypeScriptTestesUni-homework4
-## Questão 1 - Testa Função de soma de dois números
+## Questão 1 - Testa Função de Soma de dois números
 ```
 - Dado dois números inteiros
 - A função soma recebe esses dois números como parâmetro
@@ -29,13 +29,13 @@ Teste 3 - concatenacaoIdades:
 - A funçãoconcatenacaoIdades recebe esses dois números como parâmetro
 - Deve retornar a subtração dos mesmos
 ```
-## Questão 4 - Testa Funções de NumGerações
+## Questão 4 - Testa Função de NumGerações
 ```
 - Dado dois números natural, equivalente a chegada dos imigrantes e o ano atual
 - A função NumGerações recebe esses dois números como parâmetro
 - Deve retornar quantos anos já se passaram desde o ano 1500
 ```
-## Questão 5 - Testa Funções para verificar se o ano digitado é bissexto
+## Questão 5 - Testa Função para verificar se o ano digitado é bissexto
 ```
 - Dado um número natural, equivalente ao ano
 - A função bissexto recebe esse número como parâmetro
