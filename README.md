@@ -1,4 +1,4 @@
-# TypeScriptTestesUni-homework4
+# TypeScriptUnitTesting-homework4
 ## Questão 1 - Testa Função de Soma de dois números
 ```
 - Dado dois números inteiros
