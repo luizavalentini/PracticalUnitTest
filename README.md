@@ -1,5 +1,5 @@
 # Unit Tests
-This repository is dedicated to practicing unit testing using the Jest tool in a TypeScript environment.
+This repository is dedicated to practicing unit testing using the Jest tool.
 
 ## Question 1 - Test Sum Function for Two Numbers
 ```
