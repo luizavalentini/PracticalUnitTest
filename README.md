@@ -1,45 +1,46 @@
-# TypeScriptUnitTesting-homework4
-## Questão 1 - Testa Função de Soma de dois números
+# Unit Tests
+This repository is dedicated to practicing unit testing using the Jest tool in a TypeScript environment.
+
+## Question 1 - Test Sum Function for Two Numbers
 ```
-- Dado dois números inteiros
-- A função soma recebe esses dois números como parâmetro
-- Deve retornar a soma dos mesmos
+- Given two integers
+- The sum function takes these two numbers as parameters
+- It should return their sum
 ```
-## Questão 2 - Testa Função de AlertaAtendente
+## Question 2 - Test AlertAttendant Function
 ```
-- Dado duas strings
-- A função AlertaAtendente recebe essas duas strings como parâmetro
-<!-- Deve retornar a soma dos mesmos -->
+- Given two strings
+- The AlertAttendant function takes these two strings as parameters
 ```
 
-## Questão 3 - Testa Funções de Subtrações 
+## Question 3 - Test Subtraction Functions
 ```
-Teste 1 - Função subtracaoCarlosEAna: 
-- Dado dois números naturais, equivalente a idade de Carlos e Ana
-- A função subtracaoCarlosEAna recebe esses dois números como parâmetro
-- Deve retornar a subtração dos mesmos
+Test 1 - subtractioneBetweenCarlosAndAna Function:
+- Given two natural numbers, representing the ages of Carlos and Ana
+- The subtractioneBtweenCarlosAndAna function takes these two numbers as parameters
+- Should return the subtraction of these numbers
 
-Teste 2 - subtracaoLuizaEIrmaLuiza:
-- Dado dois números naturais, equivalente a idade da Irma da Luiza e da Luiza
-- A função subtracaoLuizaEIrmaLuiza recebe esses dois números como parâmetro
-- Deve retornar a subtração dos mesmos
+Test 2 - subtractioneBetweenLuizaAndLuiza'sSister Function:
+- Given two natural numbers, representing the ages of Luiza's sister and Luiza
+- The subtractioneBetweenLuizaAndLuiza'sSister function takes these two numbers as parameters
+- Should return the subtraction of these numbers
 
-Teste 3 - concatenacaoIdades:
-- Dado dois números naturais, equivalente ao resultado da subtração das funções anteriores
-- A funçãoconcatenacaoIdades recebe esses dois números como parâmetro
-- Deve retornar a subtração dos mesmos
+Test 3 - ageConcatenation Function:
+- Given two natural numbers, representing the results of the subtraction functions above
+- The ageConcatenation function takes these two numbers as parameters
+- Should return the subtraction of these numbers
 ```
-## Questão 4 - Testa Função de NumGerações
+## Question 4 - Test GenerationNumber Function
 ```
-- Dado dois números natural, equivalente a chegada dos imigrantes e o ano atual
-- A função NumGerações recebe esses dois números como parâmetro
-- Deve retornar quantos anos já se passaram desde o ano 1500
+- Given two natural numbers, representing the arrival of immigrants and the current year
+- The NumGerações function takes these two numbers as parameters
+- Should return how many years have passed since the year 1500
 ```
-## Questão 5 - Testa Função para verificar se o ano digitado é bissexto
+## Question 5 - Test Function to Check If the Entered Year Is a Leap Year
 ```
-- Dado um número natural, equivalente ao ano
-- A função bissexto recebe esse número como parâmetro
-- Deve retornar se o ano é bissexto ou não
+- Given a natural number, representing the year
+- The bissexto function takes this number as a parameter
+- Should return whether the year is a leap year or not
 ```
 
 
